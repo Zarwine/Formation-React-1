@@ -1,3 +1,10 @@
+# Formation-React-1
+Première formation React de la chaine : Donkey Geek 
+First React Formation from Donkey Geek @ Youtube
+
+# How it works ?
+Clone projet : git clone 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
